@@ -5,6 +5,6 @@ I added a few more things.  all credits to the skilled.
 
 - Reach option: Weapon, OnlySpeed.
 
-- Velocity options: Weapon, Only Clicking, "OnlyGround" (ignore if you are on air).
+- Velocity options: Weapon, Only Clicking, Sprinting and "OnlyGround" (ignore if you are on air).
 
-- Aimassist ignore water, lava, work only onGround and sprinting.
+- Aimassist ignore water, Lava, work only onGround and sprinting.
