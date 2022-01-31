@@ -1,0 +1,16 @@
+[
+{
+  "modid": "motionblurmod",
+  "name": "MotionBlurMod",
+  "description": "adds blur to your motion xddddddddddddd",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fyu"],
+  "credits": "your nan",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
