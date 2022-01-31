@@ -1,5 +1,5 @@
 # Skilled-Client-v3
-I added a few more things.  all credits to the skilled.
+I added a few more things.
 
 - Reach/Velocity: ignore water, lava, poison effect and etc.
 
@@ -8,3 +8,6 @@ I added a few more things.  all credits to the skilled.
 - Velocity options: Weapon, Only Clicking, Sprinting and "OnlyGround" (ignore if you are on air).
 
 - Aimassist ignore water, Lava, work only onGround and sprinting.
+
+
+ all credits to the skilled.
