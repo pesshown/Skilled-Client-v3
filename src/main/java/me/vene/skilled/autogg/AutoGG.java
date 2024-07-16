@@ -13,20 +13,15 @@
    private String[] triggers;
    private Minecraft mc = Minecraft.getMinecraft();
    
-   public AutoGG() throws IOException {
-     String rawTriggers = IOUtils.toString(new URL("https://gist.githubusercontent.com/minemanpi/72c38b0023f5062a5f3eba02a5132603/raw/triggers.txt"));
-     this.triggers = rawTriggers.split("\n");
+   public class AutoGG {
+   public static String unformattedMessage;
+
+   public AutoGG() {
+       // Constructor is now empty
    }
 
    @SubscribeEvent
-   public void onChat(final ClientChatReceivedEvent event) throws InterruptedException {
-       AutoGG.unformattedMessage = event.message.getUnformattedText();
-       AutoGG.unformattedMessage = EnumChatFormatting.getTextWithoutFormattingCodes(AutoGG.unformattedMessage);
-       for (int i = 0; i < this.triggers.length; ++i) {
-           if (AutoGG.unformattedMessage.contains(this.triggers[i])) {
-               this.mc.thePlayer.sendChatMessage("/achat gg");
-               break;
-           }
-       }
+   public void onChat(final ClientChatReceivedEvent event) {
+       // Method is now empty
    }
 }
