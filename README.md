@@ -1,15 +1,8 @@
-# Skilled-Client-v3
-I added a few more things.
+# Skilled-Reborn
+i added
 
-- Reach/Velocity: ignore water, lava, poison effect and etc.
-
-- Aimassist: ignore water, Lava, work only onGround and sprinting.
-
-- Reach option: Weapon, OnlySpeed.
-
-- Velocity options: Weapon, Only Clicking, Sprinting and "OnlyGround" (ignore if you are on air).
+- Speed (Bhop)
+- Scaffold (Not Completed) (various bugs)
 
 
-
-
-☮ all credits to the skilled. ✌
+im not a good dev but i will still try make client good
